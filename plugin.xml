@@ -23,7 +23,7 @@
   <!-- android -->
   <platform name="android">
 
-    <dependency id="com.google.playservices" url="https://github.com/MobileChromeApps/google-play-services" commit="1f56399572d255193f8f9564843df60e50938e69"/>
+    <dependency id="com.google.playservices" url="https://github.com/monoku/google-play-services" commit="v1"/>
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="GooglePlus">
